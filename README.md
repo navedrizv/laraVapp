@@ -1,0 +1,2 @@
+# laraVapp
+laravel sample app
